@@ -10,8 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajrup05&show_icons=true&locale=en&layout=compact" alt="rajrup05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajrup05&show_icons=true&locale=en" alt="rajrup05" /></p>
-
 <!--
 **rajrup05/rajrup05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
